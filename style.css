@@ -1,0 +1,83 @@
+div {
+    display: block;
+}
+
+#nav {
+    right: 0;
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    margin: 19px 0 5px;
+    padding: 0 96px 0 0;
+}
+
+a:link {
+    color: #666;
+    text-decoration: none;
+}
+
+.mnav {
+    float: left;
+    color: #333;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 20px;
+    font-size: 13px;
+    text-decoration: underline;
+}
+
+.bri {
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    width: 60px;
+    height: 23px;
+    float: left;
+    color: #fff;
+    background: #38f;
+    line-height: 24px;
+    font-size: 13px;
+    text-align: center;
+    border-bottom: 1px solid #38f;
+    margin-left: 19px;
+    margin-right: 2px;
+}
+
+.bdbri {
+    width: 85px;
+    min-height: 1000px;
+    text-align: center;
+    top: 0;
+    right: 0;
+    position: absolute;
+    background-color: #f9f9f9;
+    border-left: 1px solid #e7e7e7;
+}
+
+.bdbriimgtitle {
+    border-bottom: #f0f0f0 1px solid;
+    color: #333;
+    line-height: 43px;
+    height: 43px;
+    width: 66px;
+    font-size: 13px;
+    padding-top: 9px;
+    margin: 0 auto;
+}
+
+.img {
+    height: 36px;
+    display: block;
+    margin: 10px auto 5px;
+}
+
+.rightItem{
+    border-bottom: #f0f0f0 1px solid;
+    color: #333;
+    width: 66px;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
