@@ -43,7 +43,7 @@ a:link {
     margin-right: 2px;
 }
 
-.bdbri {
+.rightNav {
     width: 85px;
     min-height: 1000px;
     text-align: center;
@@ -71,7 +71,7 @@ a:link {
     margin: 10px auto 5px;
 }
 
-.rightItem{
+.rightItem {
     border-bottom: #f0f0f0 1px solid;
     color: #333;
     width: 66px;
@@ -80,4 +80,22 @@ a:link {
     padding-bottom: 5px;
 }
 
+.content {
+    width: 641px;
+    height: 100%;
+    min-height: 293px;
+    margin: 0 auto 0 auto;
+    z-index: 100;
+    text-align: left;
+}
+
+span{
+    margin: 0;
+    padding: 0;
+}
+
+input{
+    margin: 0;
+    padding: 0;
+}
 
